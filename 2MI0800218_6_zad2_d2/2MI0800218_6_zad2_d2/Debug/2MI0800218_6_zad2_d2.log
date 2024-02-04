@@ -1,0 +1,7 @@
+﻿  2MI0800218_6_zad2_d2.cpp
+C:\Users\Dell\source\repos\2MI0800218_6_zad2_d2\2MI0800218_6_zad2_d2\2MI0800218_6_zad2_d2.cpp(70,45): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Dell\source\repos\2MI0800218_6_zad2_d2\2MI0800218_6_zad2_d2\2MI0800218_6_zad2_d2.cpp(77,45): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Dell\source\repos\2MI0800218_6_zad2_d2\2MI0800218_6_zad2_d2\2MI0800218_6_zad2_d2.cpp(84,45): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Dell\source\repos\2MI0800218_6_zad2_d2\2MI0800218_6_zad2_d2\2MI0800218_6_zad2_d2.cpp(91,45): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Dell\source\repos\2MI0800218_6_zad2_d2\2MI0800218_6_zad2_d2\2MI0800218_6_zad2_d2.cpp(140,7): warning C4101: 'path': unreferenced local variable
+  2MI0800218_6_zad2_d2.vcxproj -> C:\Users\Dell\source\repos\2MI0800218_6_zad2_d2\Debug\2MI0800218_6_zad2_d2.exe
